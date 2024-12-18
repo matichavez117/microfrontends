@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@module-federation/vite": "^1.2.0"
+  }
+}
