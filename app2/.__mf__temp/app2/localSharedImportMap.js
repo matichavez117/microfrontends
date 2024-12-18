@@ -18,7 +18,7 @@
       
           "react": {
             name: "react",
-            version: undefined,
+            version: "18.3.1",
             scope: ["default"],
             loaded: false,
             from: "app2",
@@ -38,13 +38,13 @@
             },
             shareConfig: {
               singleton: false,
-              requiredVersion: "*"
+              requiredVersion: "^18.3.1"
             }
           }
         ,
           "react-dom": {
             name: "react-dom",
-            version: undefined,
+            version: "18.3.1",
             scope: ["default"],
             loaded: false,
             from: "app2",
@@ -64,7 +64,7 @@
             },
             shareConfig: {
               singleton: false,
-              requiredVersion: "*"
+              requiredVersion: "^18.3.1"
             }
           }
         
